@@ -8,7 +8,8 @@ The dataset includes the following key columns:
 - **Order Details**: Order ID, Order Date, Ship Date, Ship Mode, Delivery Time (days), Late Shipment
 - **Customer Information**: Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region
 - **Product Details**: Product ID, Category, Subcategory
-- **Sales Performance**: Sales, Quantity, Discount, Profit
+- **Sales Performance**: Sales, Quantity, Discount, Profit!
+
 
 ## 🔍 Key Analyses and Insights
 - **Sales Trends**:
@@ -42,7 +43,7 @@ The dataset includes the following key columns:
 - **Data Cleaning & Transformation** for enhanced insights.
 
 ## 📷 Dashboard Preview
-*(Attach a screenshot of your dashboard here to give viewers a visual idea of your work.)*
+*[Superstore sales dashboard](https://github.com/user-attachments/assets/dfc64d53-36d8-46cb-ad49-5c3412e0e932)*
 
 ## 📌 Conclusion
 This project provides a comprehensive analysis of sales trends, profitability, and operational efficiency, helping businesses make data-driven decisions.
