@@ -7,7 +7,7 @@ This project analyzes sales performance, customer behavior, and operational effi
 The dataset includes the following key columns:
 - **Order Details**: Order ID, Order Date, Ship Date, Ship Mode, Delivery Time (days), Late Shipment
 - **Customer Information**: Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region
-- **Product Details**: Product ID, Category, Subcategory
+- **Product Details**: Product ID, Product Name, Category, Subcategory
 - **Sales Performance**: Sales, Quantity, Discount, Profit!
 
 
